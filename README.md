@@ -23,7 +23,6 @@ We've curated a collection of valuable resources, including books, online course
 ## Game Design  
 
 **◾ Books**  
-[2D Game Development: From Zero to Hero](https://gitlab.com/Penaz/2dgd_f0th) - Open-source course materials for learning 2D game development.  
 [Blood, Sweat, and Pixels](https://www.amazon.co.uk/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) - The Triumphant, Turbulent Stories Behind How Video Games Are Made, by Jason Schreier.  
 [The Art of Game Design - Book](https://www.inventoridigiochi.it/wp-content/uploads/2020/07/art-of-game-design.pdf) - A free PDF copy of the book "The Art of Game Design" by Jesse Schell.  
 
