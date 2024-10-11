@@ -82,8 +82,7 @@ We've curated a collection of valuable resources, including books, online course
 [Unity Tutorial Projects](https://assetstore.unity.com/listing#cf-ec_category=essentials,tutorial-projects&nf-ec_price_filter=0...0) - Free Unity game development tutorials.  
 [VR Beginner in Unity](https://learn.unity.com/project/vr-beginner-the-escape-room) - Develop a virtual reality experience using Unity.  
 
-**◾ Youtube**  
-[Beat Em Up Fight Game Tutorial](https://www.youtube.com/watch?v=McoDjOCb2Zo) - Learn how to create a beat 'em up fighting game with this YouTube tutorial.  
+**◾ Youtube**   
 [Godot UI System](https://www.youtube.com/watch?v=y1E_y9AIqow) -  Explore using the Godot UI systems.  
 [How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Explore using the Godot game engine through YouTube videos.  
 [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) - Learn to create these specific game types with Python.  
