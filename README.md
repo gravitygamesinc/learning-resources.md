@@ -71,7 +71,6 @@ We've curated a collection of valuable resources, including books, online course
 [Chess in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=2) - Create a chess game using C programming.  
 [FPS Beginner in Unity](https://learn.unity.com/project/fps-template?courseId=5c59cf22edbc2a001f59aa5d) - Build a first-person shooter game with Unity.  
 [Platform Beginner in Unity](https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d) - Develop a 2D platformer game.  
-[Race Beginner in Unity](https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d) - Create a racing game using Unity's 2D platformer template.  
 [RPG Beginner in Unity](https://learn.unity.com/project/creator-kit-rpg) - Learn the basics of creating role-playing games in Unity.  
 [Simple Game Tutorial](https://berbasoft.com/simplegametutorials/) - Follow along with a basic game tutorial on Berbasoft.com.  
 [Snake Game onRuby](https://diatomenterprises.com/gamedev-on-ruby-why-not/) - Build a classic Snake game using the Ruby programming language.  
