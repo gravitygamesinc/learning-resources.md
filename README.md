@@ -76,7 +76,6 @@ We've curated a collection of valuable resources, including books, online course
 [Snake Game onRuby](https://diatomenterprises.com/gamedev-on-ruby-why-not/) - Build a classic Snake game using the Ruby programming language.  
 [Space Invaders on OpenGL](https://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html) - Learn how to create the Space Invaders game from scratch using OpenGL graphics library.  
 [Sprite in Java](https://medium.com/dailyjs/how-to-build-a-simple-sprite-animation-in-javascript-b764644244aa) - Learn how to animate sprites for your games using JavaScript.  
-[Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) - Develop the logic puzzle game Sudoku in C.  
 [Tetris in C++](https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/) - Build the classic Tetris game using C++ with this tutorial.  
 [TypeScript GameDev Tutorial](https://www.youtube.com/watch?v=7bejSTim38A) - Learn game development using TypeScript.  
 [Unity Learn](https://learn.unity.com/) - Official learning platform from Unity Technologies with tutorials and courses for game development.  
@@ -89,6 +88,7 @@ We've curated a collection of valuable resources, including books, online course
 [How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Explore using the Godot game engine through YouTube videos.  
 [Multiplayer Card Game Unity](https://www.youtube.com/watch?v=y1E_y9AIqow) - Build a multiplayer card game using Unity with this YouTube tutorial.  
 [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) - Learn to create these specific game types with Python.  
+[Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) - Develop the logic puzzle game Sudoku in C.  
 
 ## Publishing  
 **◾ Youtube**  
