@@ -1,4 +1,4 @@
-## Learning Resources
+## 📚 Learning Resources
 
 This repo is your gateway to learning game development.  
 
