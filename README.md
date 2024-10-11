@@ -86,7 +86,6 @@ We've curated a collection of valuable resources, including books, online course
 [Beat Em Up Fight Game Tutorial](https://www.youtube.com/watch?v=McoDjOCb2Zo) - Learn how to create a beat 'em up fighting game with this YouTube tutorial.  
 [Godot UI System](https://www.youtube.com/watch?v=y1E_y9AIqow) -  Explore using the Godot UI systems.  
 [How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Explore using the Godot game engine through YouTube videos.  
-[Multiplayer Card Game Unity](https://www.youtube.com/watch?v=y1E_y9AIqow) - Build a multiplayer card game using Unity with this YouTube tutorial.  
 [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) - Learn to create these specific game types with Python.  
 [Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) - Develop the logic puzzle game Sudoku in C.  
 
