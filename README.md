@@ -6,40 +6,40 @@ We've curated a collection of valuable resources, including books, online course
 
 ## Art and Animation  
 
-**◾ Courses**  
+**Courses**  
 [Epic Games: User Interface in Game Design](https://www.coursera.org/learn/user-interface-in-game-design) - Epic Game course about Interface Design Theory, Motion Graphics, Modular Components and User Interface.  
 [Epic Games: Visual Development and Audio Design in Games](https://www.coursera.org/learn/game-visual-development-and-audio-design) - It discusses 3D models, animation, visual effects (VFX), and sound effects (SFX).  
 [Udemy Courses: 3D and Animation](https://www.udemy.com/courses/design/3d-and-animation/?price=price-free&sort=popularity) - Free Udemy courses related to 3D modeling and animation.  
 [Udemy Courses: Game Art](https://www.udemy.com/topic/game-art/?price=price-free&sort=popularity) - Udemy free courses about 2D Art.  
 [Udemy Courses: Game Assets Creation](https://www.udemy.com/topic/game-asset/?price=price-free&sort=popularity) - Free Udemy courses focused on creating assets specifically for video games.  
 
-**◾ Tutorials**  
+**Tutorials**  
 [Pixel Art Tutorial](https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783) - Pixel art for beginners. It discusses what pixel art is and how to make it.  
 [Dota 2 Workshop - Character Art Guide](https://help.steampowered.com/en/faqs/view/0688-7692-4D5A-1935) - Dota’s full documentation on how they made their art.  
 
-**◾ Youtube**  
+**Youtube**  
 [Cuphead's Animation Process and Philosophy](https://www.youtube.com/watch?v=RmGb-jU3uVQ) - Very interesting knowledge but not as transferrable to our work. Still a very interesting watch.  
 
 ## Game Design  
 
-**◾ Books**  
+**Books**  
 [Blood, Sweat, and Pixels](https://www.amazon.co.uk/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) - The Triumphant, Turbulent Stories Behind How Video Games Are Made, by Jason Schreier.  
 [The Art of Game Design - Book](https://www.inventoridigiochi.it/wp-content/uploads/2020/07/art-of-game-design.pdf) - A free PDF copy of the book "The Art of Game Design" by Jesse Schell.  
 
-**◾ Courses**  
+**Courses**  
 [Epic Games: Fundamental of Level Design with Unreal](https://www.coursera.org/learn/level-design) - Course on creating engaging levels in games using Unreal Engine by Epic Games.  
 [Epic Games: Game Design Professional](https://www.coursera.org/professional-certificates/epic-games-game-design-professional-certificate) - Comprehensive program on game design and Unreal Engine from Epic Games.  
 [Epic Games: Introduction to Game Design](https://www.coursera.org/learn/introduction-to-game-design) - Starter course on game design concepts by Epic Games.  
 [Epic Games: User Experience in Game Design](https://www.coursera.org/learn/user-experience-in-game-design) - Course focusing on user experience (UX) in game design by Epic Games.  
 [Udemy Courses: Game Design](https://www.udemy.com/courses/design/game-design/?lang=en&price=price-free&sort=popularity) - Free Udemy courses related to game design.  
 
-**◾ Tutorials**  
+**Tutorials**  
 [Designer Notes](https://www.designer-notes.com/) - Articles and insights into video game design.  
 [Game Developer](https://www.gamedeveloper.com/) - Articles and tutorials on game design from an industry perspective.  
 [GDC Vault](https://gdcvault.com/) - Access recordings and presentations from past GDC conferences.  
 [Lost Garden](https://lostgarden.com/) - Resources and information for indie game developers.  
 
-**◾ Youtube**  
+**Youtube**  
 [Classic Game Postmortem: Fallout](https://www.youtube.com/watch?v=T2OxO-4YLRk) - Interesting development cycle starting in 1994. Not sure how relevant it is to today, but nevertheless interesting.  
 [Cursed Problems in Game Design](https://www.youtube.com/watch?v=8uE6-vIi1rQ) - Useful but also highly theoretical talk on contradictory problems in game design given by a Riot game designed working in R&D.  
 [Darkest Dungeon: A Design Postmortem](https://www.youtube.com/watch?v=0IUaGQhlPwo) - Highly optional. It is interesting, but does not teach as much. Good perspective from an indie team of ~ 10 people.  
@@ -52,12 +52,12 @@ We've curated a collection of valuable resources, including books, online course
 [What Went Wrong with Gaming?](https://www.youtube.com/watch?v=g16heGLKlTA) - Focus on monetization has led to a decline in the quality of games and a more negative experience for players.  
 
 ## Production  
-**◾ Youtube**  
+**Youtube**  
 [Blue Gravity Youtube](https://www.youtube.com/@BlueGravityGames) - Our own Studio Channel containing production tips and informations.  
 
 ## Programming  
 
-**◾ Courses**  
+**Courses**  
 [Code Academy](https://www.codecademy.com/catalog/subject/game-development) - Explore various game development courses offered by Code Academy.  
 [Epic Games: Game Development and Prototyping](https://www.coursera.org/learn/game-development-and-prototyping) - Learn the fundamentals of game development and rapid prototyping with Epic Games.  
 [Epic Games: Unreal Engine Fundamentals](https://www.coursera.org/learn/unreal-engine-fundamentals) - Get started with Unreal Engine through this foundational course by Epic Games.  
@@ -65,7 +65,7 @@ We've curated a collection of valuable resources, including books, online course
 [Unity Certification Projects](https://assetstore.unity.com/listing#cf-ec_category=essentials,certification&) - Free Unity game development courses.  
 [Udemy Courses: Game Development](https://www.udemy.com/courses/development/game-development/?lang=en&price=price-free&sort=popularity) - Free Udemy game development courses.  
 
-**◾ Tutorials**  
+**Tutorials**  
 [2D Roguelite in Unity](https://learn.unity.com/project/2d-roguelike-tutorial) - Build a roguelike game with procedurally generated levels.  
 [3D Begginer in Unity](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner) - Get started with creating 3D games in Unity.  
 [Chess in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=2) - Create a chess game using C programming.  
@@ -82,14 +82,14 @@ We've curated a collection of valuable resources, including books, online course
 [Unity Tutorial Projects](https://assetstore.unity.com/listing#cf-ec_category=essentials,tutorial-projects&nf-ec_price_filter=0...0) - Free Unity game development tutorials.  
 [VR Beginner in Unity](https://learn.unity.com/project/vr-beginner-the-escape-room) - Develop a virtual reality experience using Unity.  
 
-**◾ Youtube**   
+**Youtube**   
 [Godot UI System](https://www.youtube.com/watch?v=y1E_y9AIqow) -  Explore using the Godot UI systems.  
 [How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Explore using the Godot game engine through YouTube videos.  
 [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) - Learn to create these specific game types with Python.  
 [Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) - Develop the logic puzzle game Sudoku in C.  
 
 ## Publishing  
-**◾ Youtube**  
+**Youtube**  
 [30 Things I Hate About Your Game Pitch](https://www.youtube.com/watch?v=4LTtr45y7P0) - Good pitching 101 for game studios but very basic advice.  
 [Effectively Pitching to Publishers](https://www.youtube.com/watch?v=JZyCgChW0dc) - Worth watching, but not groundbreaking. The very typical publisher mentality does not advise how to actually make a game and just cheap tricks.  
 [How to Consistently Make Profitable Indie Games](https://www.youtube.com/watch?v=LlAc5sBtGkc) - Insane video. Must watch if you ever want to make a game yourself.  
@@ -99,11 +99,11 @@ We've curated a collection of valuable resources, including books, online course
 
 ## Selling and Sales  
 
-**◾ Books**  
+**Books**  
 [Way of the Wolf: Straight Line Selling: Master the Art of Persuasion, Influence, and Success](https://www.amazon.co.uk/Way-Wolf-Straight-Persuasion-Influence/dp/B07565WVQR/ref=sr_1_1?crid=8D58CQCDGBYI&dib=eyJ2IjoiMSJ9.d0pbKKojfgZH_1GgjqgQbjzLVRzRy1R8sQNK9oSEuNPmkhxZSLy_PgyZvnNrCt50KHUXtFRp8EUUyDp-EnR6OIKtKKDa56iIqy16FnP4_Z6YTbmkT11Htt1zkgWSFknprTxaCJO-ltzBpTuUW6qJ2OZLYczP8VjEEJDSeEOh8OebBakV_IS0bWMSFRZxtDyU-Sstxe4pXVDqMkd59789-w3tJXyTAuFQeBuCELw2sRQ.U1DQfS9d43wT1IifaUED_UZkun6j9vZRZ5oU6vTXkfU&dib_tag=se&keywords=way+of+the+wolf&qid=1728417011&s=books&sprefix=way+of+the+wold%2Cstripbooks%2C554&sr=1-1) - One of the best books on selling. Every sales team must reach this. Can find PDF for free online.  
 
 ## Startup  
-**◾ Youtube**  
+**Youtube**  
 [10+1 Lessons from Serial Entrepreneur Justin Kan](https://www.youtube.com/watch?v=Q-Cbav_Dt2s) - Justin Kan is the founder of Twitch and offers amazing insight into how to develop a business from zero.  
 [Meet The Man Who Created & Sold Twitch For Almost $1 Billion | Stay Curious #34](https://www.youtube.com/watch?v=09MzN6xoDzQ) - Basic information on startup fundamentals. Worth watching for everyone.  
 [Michael Seibel - Building Product](https://www.youtube.com/watch?v=C27RVio2rOs) - Incredible advice on why Twitch succeeded and what made them unique. Must watch.  
