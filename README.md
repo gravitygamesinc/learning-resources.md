@@ -103,3 +103,4 @@ We've curated a collection of valuable resources, including books, online course
 [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) - Learn to create these specific game types with Python.  
 [Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) - Develop the logic puzzle game Sudoku in C.  
 
+[![Return](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=black)](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/README.md)
