@@ -1,7 +1,6 @@
 # 📚 Learning Resources
 
-This repo is your gateway to learning game development.  
-
+>This repo is your gateway to learning game development.  
 We've curated a collection of valuable resources, including books, online courses, tutorials, and YouTube channels, all tailored to help you master the various skills needed in game development. If you're looking for beginner-friendly materials or advanced deep dives into specific topics, this is your go-to resource hub to accelerate your learning journey in game creation.  
 
 🎨 [Art and Animation](https://github.com/bluegravitystudios/learning-resources.md#-art-and-animation)  
