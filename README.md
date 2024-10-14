@@ -131,14 +131,19 @@ We've curated a collection of valuable resources, including books, online course
 [Blue Gravity Youtube](https://www.youtube.com/@BlueGravityGames) - Our own Studio Channel containing production tips and informations.  
 [30 Things I Hate About Your Game Pitch](https://www.youtube.com/watch?v=4LTtr45y7P0) - Good pitching 101 for game studios but very basic advice.  
 [Effectively Pitching to Publishers](https://www.youtube.com/watch?v=JZyCgChW0dc) - Worth watching, but not groundbreaking. The very typical publisher mentality does not advise how to actually make a game and just cheap tricks.  
+[Game Maker Toolkit Youtube Channel](https://www.youtube.com/@GMTK) -  In-depth game design and development discussions with Mark Brown.  
+[Goodgis Youtube Channel](https://www.youtube.com/@Goodgis) -  Explore various aspects of the game industry with discussions led by Nathan Grayson.  
 [How to Consistently Make Profitable Indie Games](https://www.youtube.com/watch?v=LlAc5sBtGkc) - Insane video. Must watch if you ever want to make a game yourself.  
 [Know Your Market: Making Indie Games That Sell](https://www.youtube.com/watch?v=uy0Dfr-mnUY) - Amazing talk on statistics of how games sell. Must watch.  
 [State of hyper-casual games in 2022 by Tom Cui](https://www.youtube.com/watch?v=T5cYlhBz1A4) - Progress in the last year.  
 [Success in Hyper-Casual](https://www.youtube.com/watch?v=QfojHNoBC5w) - Advice on hypercasual success, this is a crazy video.   
 [10+1 Lessons from Serial Entrepreneur Justin Kan](https://www.youtube.com/watch?v=Q-Cbav_Dt2s) - Justin Kan is the founder of Twitch and offers amazing insight into how to develop a business from zero.  
+[Masahiro Sakurai Youtube Channel](https://www.youtube.com/@sora_sakurai_en) -  Gain insights into game design from the mind behind Super Smash Bros. himself, Masahiro Sakurai.  
 [Meet The Man Who Created & Sold Twitch For Almost $1 Billion | Stay Curious #34](https://www.youtube.com/watch?v=09MzN6xoDzQ) - Basic information on startup fundamentals. Worth watching for everyone.  
+[Mental Checkpoint Youtube Channel](https://www.youtube.com/@MentalCheckpoint) -  Learn about game design, psychology, and player experience.  
 [Michael Seibel - Building Product](https://www.youtube.com/watch?v=C27RVio2rOs) - Incredible advice on why Twitch succeeded and what made them unique. Must watch.  
 [MY SECRET TIPS for pitching your startup to investors](https://www.youtube.com/watch?v=5SS_oCS3iTM) - How to pitch, very useful.  
+[This is GameDev Youtube Channel](https://www.youtube.com/@this-is-gamedev) -  Explorations of game development and behind-the-scenes content.  
 
 **Tutorials**  
 [Game developer roadmap](https://roadmap.sh/game-developer) -  An online roadmap outlining the skills and technologies you might need to learn on your path to becoming a game developer.  
