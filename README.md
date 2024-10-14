@@ -4,6 +4,12 @@ This repo is your gateway to learning game development.
 
 We've curated a collection of valuable resources, including books, online courses, tutorials, and YouTube channels, all tailored to help you master the various skills needed in game development. If you're looking for beginner-friendly materials or advanced deep dives into specific topics, this is your go-to resource hub to accelerate your learning journey in game creation.  
 
+🎨 [Art and Animation](https://github.com/bluegravitystudios/learning-resources.md/edit/main/README.md#-art-and-animation)  
+🔊 [Audio](https://github.com/bluegravitystudios/learning-resources.md/edit/main/README.md#-audio)  
+🕹 [Game Design](https://github.com/bluegravitystudios/learning-resources.md/edit/main/README.md#-game-design)  
+⚒ [Production](https://github.com/bluegravitystudios/learning-resources.md/edit/main/README.md#-production)  
+💻 [Programming](https://github.com/bluegravitystudios/learning-resources.md/edit/main/README.md#-programming)  
+
 ## 🎨 Art and Animation  
 
 ### Courses  
@@ -119,7 +125,7 @@ We've curated a collection of valuable resources, including books, online course
 [Magic: the Gathering: 20 Years, 20 Lessons Learned](https://www.youtube.com/watch?v=QHHg99hwQGY) - Youtube video on the design of Magic. Amazing talk, everyone should watch it regardless if you are into magic because the lessons here are transferable to any game.  
 [What Went Wrong with Gaming?](https://www.youtube.com/watch?v=g16heGLKlTA) - Focus on monetization has led to a decline in the quality of games and a more negative experience for players.  
 
-## 💡 Production  
+## ⚒ Production  
 
 ### Books  
 [Way of the Wolf: Straight Line Selling: Master the Art of Persuasion, Influence, and Success](https://www.amazon.co.uk/Way-Wolf-Straight-Persuasion-Influence/dp/B07565WVQR/ref=sr_1_1?crid=8D58CQCDGBYI&dib=eyJ2IjoiMSJ9.d0pbKKojfgZH_1GgjqgQbjzLVRzRy1R8sQNK9oSEuNPmkhxZSLy_PgyZvnNrCt50KHUXtFRp8EUUyDp-EnR6OIKtKKDa56iIqy16FnP4_Z6YTbmkT11Htt1zkgWSFknprTxaCJO-ltzBpTuUW6qJ2OZLYczP8VjEEJDSeEOh8OebBakV_IS0bWMSFRZxtDyU-Sstxe4pXVDqMkd59789-w3tJXyTAuFQeBuCELw2sRQ.U1DQfS9d43wT1IifaUED_UZkun6j9vZRZ5oU6vTXkfU&dib_tag=se&keywords=way+of+the+wolf&qid=1728417011&s=books&sprefix=way+of+the+wold%2Cstripbooks%2C554&sr=1-1) - One of the best books on selling. Every sales team must reach this. Can find PDF for free online.  
