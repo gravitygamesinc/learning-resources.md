@@ -1,4 +1,4 @@
-## 📚 Learning Resources
+# 📚 Learning Resources
 
 This repo is your gateway to learning game development.  
 
@@ -6,7 +6,7 @@ We've curated a collection of valuable resources, including books, online course
 
 ## 🎨 Art and Animation  
 
-**Courses**  
+### Courses  
 [Epic Games: User Interface in Game Design](https://www.coursera.org/learn/user-interface-in-game-design) -  Epic Game course about Interface Design Theory, Motion Graphics, Modular Components and User Interface.  
 [Epic Games: Visual Development and Audio Design in Games](https://www.coursera.org/learn/game-visual-development-and-audio-design) -  It discusses 3D models, animation, visual effects (VFX), and sound effects (SFX).  
 [Udemy Courses: 3D and Animation](https://www.udemy.com/courses/design/3d-and-animation/?price=price-free&sort=popularity) -  Free Udemy courses related to 3D modeling and animation.  
@@ -73,27 +73,27 @@ We've curated a collection of valuable resources, including books, online course
 [Udemy: Vehicle Modeling in Houdini ](https://www.udemy.com/course/vehicle-modeling-in-houdini-16-scifi-dropship/) -  Houdini is a powerful 3D software. This course specifically focuses on modeling a sci-fi dropship vehicle in Houdini.  
 [Udemy: VFX and Virtual Reality Theory Basics](https://www.udemy.com/course/vr-in-the-vfx-world/) -  Explore the foundational concepts of visual effects (VFX) and virtual reality (VR) in this Udemy course.  
 
-**Tutorials**  
+### Tutorials  
 [Lighting Optimisation Tutorial](https://assetstore.unity.com/packages/essentials/tutorial-projects/lighting-optimisation-tutorial-73563) -  A tutorial project on optimizing lighting in Unity projects to improve performance.  
 [Corridor Lighting Example](https://assetstore.unity.com/packages/essentials/tutorial-projects/corridor-lighting-example-33630) -  An example project showcasing lighting techniques for creating a corridor environment in Unity.  
 [Pixel Art Tutorial](https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783) -  Pixel art for beginners. It discusses what pixel art is and how to make it.  
 [Dota 2 Workshop - Character Art Guide](https://help.steampowered.com/en/faqs/view/0688-7692-4D5A-1935) -  Dota’s full documentation on how they made their art.  
 
-**Youtube**  
+### Youtube  
 [Blender Begginer Guide Part 1](https://www.youtube.com/watch?v=jnj2BL4chaQ&list=PLn3ukorJv4vuU3ILv3g3xnUyEGOQR-D8J) -  Playlist is a beginner guide to learning Blender, a powerful 3D modeling and animation software.  
 [Cuphead's Animation Process and Philosophy](https://www.youtube.com/watch?v=RmGb-jU3uVQ) -  Very interesting knowledge but not as transferrable to our work. Still a very interesting watch.  
 [Hearthstone: How to Create an Immersive User Interface](https://www.youtube.com/watch?v=axkPXCNjOh8) -  Hearthstone senior UI designer Derek Sakamoto breaks down Blizzard's approach to UI design. It's interesting but very specific.  
 
 ## 🔊 Audio  
-**Tutorials**  
+### Tutorials  
 [Foundations of Real-Time Audio](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-learn-foundations-of-real-time-audio-urp-183075#description) -  A Unity learning resource focused on the fundamentals of real-time audio within the Universal Render Pipeline (URP).  
 
 ## 🕹 Game Design  
 
-**Books**  
+### Books  
 [The Art of Game Design - Book](https://www.inventoridigiochi.it/wp-content/uploads/2020/07/art-of-game-design.pdf) - A free PDF copy of the book "The Art of Game Design" by Jesse Schell.  
 
-**Courses**  
+### Courses  
 [Epic Games: Fundamental of Level Design with Unreal](https://www.coursera.org/learn/level-design) -  Course on creating engaging levels in games using Unreal Engine by Epic Games.  
 [Epic Games: Game Design Professional](https://www.coursera.org/professional-certificates/epic-games-game-design-professional-certificate) -  Comprehensive program on game design and Unreal Engine from Epic Games.  
 [Epic Games: Introduction to Game Design](https://www.coursera.org/learn/introduction-to-game-design) -  Starter course on game design concepts by Epic Games.  
@@ -102,13 +102,13 @@ We've curated a collection of valuable resources, including books, online course
 [Udemy: Introduction to Game Design Theory](https://www.udemy.com/course/welcome-to-game-design-introduction-to-game-theory/) -  Explore the theoretical foundation of game design in this introductory course.  
 [Udemy: Making a cardgame in Photoshop](https://www.udemy.com/course/card-game/) -  Learn how to create a card game using Photoshop in this Udemy course.  
 
-**Tutorials**  
+### Tutorials  
 [Designer Notes](https://www.designer-notes.com/) - Articles and insights into video game design.  
 [Game Developer](https://www.gamedeveloper.com/) - Articles and tutorials on game design from an industry perspective.  
 [GDC Vault](https://gdcvault.com/) - Access recordings and presentations from past GDC conferences.  
 [Lost Garden](https://lostgarden.com/) - Resources and information for indie game developers.  
 
-**Youtube**  
+### Youtube  
 [Classic Game Postmortem: Fallout](https://www.youtube.com/watch?v=T2OxO-4YLRk) - Interesting development cycle starting in 1994. Not sure how relevant it is to today, but nevertheless interesting.  
 [Cursed Problems in Game Design](https://www.youtube.com/watch?v=8uE6-vIi1rQ) - Useful but also highly theoretical talk on contradictory problems in game design given by a Riot game designed working in R&D.  
 [Darkest Dungeon: A Design Postmortem](https://www.youtube.com/watch?v=0IUaGQhlPwo) - Highly optional. It is interesting, but does not teach as much. Good perspective from an indie team of ~ 10 people.  
@@ -121,13 +121,13 @@ We've curated a collection of valuable resources, including books, online course
 
 ## 💡 Production  
 
-**Books**  
+### Books  
 [Way of the Wolf: Straight Line Selling: Master the Art of Persuasion, Influence, and Success](https://www.amazon.co.uk/Way-Wolf-Straight-Persuasion-Influence/dp/B07565WVQR/ref=sr_1_1?crid=8D58CQCDGBYI&dib=eyJ2IjoiMSJ9.d0pbKKojfgZH_1GgjqgQbjzLVRzRy1R8sQNK9oSEuNPmkhxZSLy_PgyZvnNrCt50KHUXtFRp8EUUyDp-EnR6OIKtKKDa56iIqy16FnP4_Z6YTbmkT11Htt1zkgWSFknprTxaCJO-ltzBpTuUW6qJ2OZLYczP8VjEEJDSeEOh8OebBakV_IS0bWMSFRZxtDyU-Sstxe4pXVDqMkd59789-w3tJXyTAuFQeBuCELw2sRQ.U1DQfS9d43wT1IifaUED_UZkun6j9vZRZ5oU6vTXkfU&dib_tag=se&keywords=way+of+the+wolf&qid=1728417011&s=books&sprefix=way+of+the+wold%2Cstripbooks%2C554&sr=1-1) - One of the best books on selling. Every sales team must reach this. Can find PDF for free online.  
 
-**Courses**  
+### Courses  
 [Udemy: An Introduction To Video Game Production](https://www.udemy.com/course/an-introduction-to-video-game-production/) -  This course goes beyond the technical aspects, offering an introduction to video game production as a whole.
 
-**Youtube**  
+### Youtube  
 [Blue Gravity Youtube](https://www.youtube.com/@BlueGravityGames) - Our own Studio Channel containing production tips and informations.  
 [30 Things I Hate About Your Game Pitch](https://www.youtube.com/watch?v=4LTtr45y7P0) - Good pitching 101 for game studios but very basic advice.  
 [Effectively Pitching to Publishers](https://www.youtube.com/watch?v=JZyCgChW0dc) - Worth watching, but not groundbreaking. The very typical publisher mentality does not advise how to actually make a game and just cheap tricks.  
@@ -145,12 +145,12 @@ We've curated a collection of valuable resources, including books, online course
 [MY SECRET TIPS for pitching your startup to investors](https://www.youtube.com/watch?v=5SS_oCS3iTM) - How to pitch, very useful.  
 [This is GameDev Youtube Channel](https://www.youtube.com/@this-is-gamedev) -  Explorations of game development and behind-the-scenes content.  
 
-**Tutorials**  
+### Tutorials  
 [Game developer roadmap](https://roadmap.sh/game-developer) -  An online roadmap outlining the skills and technologies you might need to learn on your path to becoming a game developer.  
 
 ## 💻 Programming  
 
-**Courses**  
+### Courses  
 [2D Endless Runner](https://assetstore.unity.com/packages/essentials/certification/2d-endless-runner-assets-certification-courseware-247612) -  Certification courseware package for creating a 2D endless runner game in Unity.  
 [3D Bunny Ball](https://assetstore.unity.com/packages/essentials/certification/3d-bunny-ball-certification-courseware-247620) -  Courseware package, likely for creating a 3D bunny ball game in Unity.  
 [3D Crash Scene](https://assetstore.unity.com/packages/essentials/certification/3d-crash-scene-certification-courseware-247618) -  Courseware package for creating a 3D crash scene in Unity.  
@@ -203,7 +203,7 @@ We've curated a collection of valuable resources, including books, online course
 [Udemy: Video Game Basics with Python and Pygame](https://www.udemy.com/course/the-art-of-doing-video-game-basics-with-python-and-pygame/) -  Learn the basics of video game development using Python and the Pygame library.  
 [Unity Certification Projects](https://assetstore.unity.com/listing#cf-ec_category=essentials,certification&) -  Free Unity game development courses.  
 
-**Tutorials**  
+### Tutorials  
 [2D Beginner: Adventure Game Complete Project](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-learn-2d-beginner-adventure-game-complete-project-urp-271239) -  A complete 2D adventure game project for beginners in Unity.  
 [2D Roguelite in Unity](https://learn.unity.com/project/2d-roguelike-tutorial) -  Build a roguelike game with procedurally generated levels.  
 [3D Begginer in Unity](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner) -  Get started with creating 3D games in Unity.  
@@ -251,28 +251,12 @@ We've curated a collection of valuable resources, including books, online course
 [UnityAndroidIl2cppPatchDemo](https://assetstore.unity.com/packages/essentials/tutorial-projects/unityandroidil2cpppatchdemo-131734) -  Demonstration project showcasing patching for Android builds using IL2CPP in Unity.  
 [VR Beginner in Unity](https://learn.unity.com/project/vr-beginner-the-escape-room) -  Develop a virtual reality experience using Unity.  
 
-**Youtube**   
+### Youtube   
 [Godot UI System](https://www.youtube.com/watch?v=y1E_y9AIqow) -  Explore using the Godot UI systems.  
 [How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) -  Explore using the Godot game engine through YouTube videos.  
 [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) -  Learn to create these specific game types with Python.  
 [Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) -  Develop the logic puzzle game Sudoku in C.  
 [Unity 2D Platform for Begginers](https://www.youtube.com/watch?v=TcranVQUQ5U&list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV) -  Playlist tutorial for creating 2D platformer games in Unity, suitable for beginners.  
 [Unity Tutorial for Complete Begginers](https://www.youtube.com/watch?v=XtQMytORBmM) -  Beginner-friendly Unity tutorial series covering the basics of building games in the Unity engine.  
-
-## 🐞 QA  
-[Appium](https://appium.io/docs/en/latest/) -  An open-source framework for automating mobile app testing across various platforms like iOS and Android. It allows using native testing frameworks and interacting with mobile apps on simulators or real devices.  
-[Bugzilla](https://www.bugzilla.org/) -  An open-source bug tracking system for logging, managing, and resolving software defects.  
-[Charles Proxy](https://www.charlesproxy.com/) -  A web debugging proxy similar to Fiddler, but specifically designed for macOS. It allows intercepting and analyzing HTTP(S) traffic, debugging web requests, and testing mobile apps.  
-[Cypress](https://www.cypress.io/) -  A modern JavaScript end-to-end testing framework for web applications. It runs tests directly in the browser and offers features like time travel debugging and automatic waiting.  
-[Jenkins](https://www.jenkins.io/) -  An open-source automation server for building, testing, and deploying software projects. It automates tasks and pipelines for continuous integration and continuous delivery (CI/CD).  
-[Katalon](https://katalon.com/) -  An automated testing platform for web, mobile, API, and desktop applications. It supports various testing frameworks and offers record-and-playback functionalities for test case creation.  
-[Postman](https://www.postman.com/) -  A collaboration platform for building and testing APIs (Application Programming Interfaces). It allows sending API requests, inspecting responses, and managing different environments.  
-[Selenium](https://www.selenium.dev/) -  A popular open-source suite of tools for automated web browser testing across various browsers and operating systems.  
-[Sentry](https://sentry.io/welcome/) -  A real-time application monitoring and error reporting platform. It helps identify, troubleshoot, and fix errors in software applications.  
-[SonarQube](https://www.sonarsource.com/products/sonarqube/) -  A platform for continuous code inspection and code quality analysis. It identifies bugs, code smells, vulnerabilities, and security issues.  
-[Telerik Fiddler](https://www.telerik.com/fiddler-b) -  A web debugging proxy tool for inspecting HTTP(S) traffic between your computer and the internet. It allows analyzing requests and responses, modifying traffic data, and debugging web applications.  
-[TestRail](https://www.testrail.com/) -  A test case management tool for planning, tracking, and executing test cases. It helps organize test suites, manage defects, and generate reports.  
-[Xdebug](https://xdebug.org/) -  A PHP extension that allows debugging PHP code by stepping through executions, inspecting variables, and profiling performance.  
-
 
 [![Return](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=black)](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/README.md)
