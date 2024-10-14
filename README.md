@@ -259,4 +259,20 @@ We've curated a collection of valuable resources, including books, online course
 [Unity 2D Platform for Begginers](https://www.youtube.com/watch?v=TcranVQUQ5U&list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV) -  Playlist tutorial for creating 2D platformer games in Unity, suitable for beginners.  
 [Unity Tutorial for Complete Begginers](https://www.youtube.com/watch?v=XtQMytORBmM) -  Beginner-friendly Unity tutorial series covering the basics of building games in the Unity engine.  
 
+## 🐞 QA  
+[Appium](https://appium.io/docs/en/latest/) -  An open-source framework for automating mobile app testing across various platforms like iOS and Android. It allows using native testing frameworks and interacting with mobile apps on simulators or real devices.  
+[Bugzilla](https://www.bugzilla.org/) -  An open-source bug tracking system for logging, managing, and resolving software defects.  
+[Charles Proxy](https://www.charlesproxy.com/) -  A web debugging proxy similar to Fiddler, but specifically designed for macOS. It allows intercepting and analyzing HTTP(S) traffic, debugging web requests, and testing mobile apps.  
+[Cypress](https://www.cypress.io/) -  A modern JavaScript end-to-end testing framework for web applications. It runs tests directly in the browser and offers features like time travel debugging and automatic waiting.  
+[Jenkins](https://www.jenkins.io/) -  An open-source automation server for building, testing, and deploying software projects. It automates tasks and pipelines for continuous integration and continuous delivery (CI/CD).  
+[Katalon](https://katalon.com/) -  An automated testing platform for web, mobile, API, and desktop applications. It supports various testing frameworks and offers record-and-playback functionalities for test case creation.  
+[Postman](https://www.postman.com/) -  A collaboration platform for building and testing APIs (Application Programming Interfaces). It allows sending API requests, inspecting responses, and managing different environments.  
+[Selenium](https://www.selenium.dev/) -  A popular open-source suite of tools for automated web browser testing across various browsers and operating systems.  
+[Sentry](https://sentry.io/welcome/) -  A real-time application monitoring and error reporting platform. It helps identify, troubleshoot, and fix errors in software applications.  
+[SonarQube](https://www.sonarsource.com/products/sonarqube/) -  A platform for continuous code inspection and code quality analysis. It identifies bugs, code smells, vulnerabilities, and security issues.  
+[Telerik Fiddler](https://www.telerik.com/fiddler-b) -  A web debugging proxy tool for inspecting HTTP(S) traffic between your computer and the internet. It allows analyzing requests and responses, modifying traffic data, and debugging web applications.  
+[TestRail](https://www.testrail.com/) -  A test case management tool for planning, tracking, and executing test cases. It helps organize test suites, manage defects, and generate reports.  
+[Xdebug](https://xdebug.org/) -  A PHP extension that allows debugging PHP code by stepping through executions, inspecting variables, and profiling performance.  
+
+
 [![Return](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=black)](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/README.md)
