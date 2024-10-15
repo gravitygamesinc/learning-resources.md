@@ -9,7 +9,7 @@ We've curated a collection of valuable resources, including books, online course
 |🔊 [Audio](https://github.com/bluegravitystudios/learning-resources.md#-audio)|  
 |🕹 [Game Design](https://github.com/bluegravitystudios/learning-resources.md#-game-design)|  
 |⚒ [Production](https://github.com/bluegravitystudios/learning-resources.md#-production)|  
-|💻 [Developer](https://github.com/bluegravitystudios/learning-resources.md#-developer)|  
+|💻 [Programming](https://github.com/bluegravitystudios/learning-resources.md#-developer)|  
 
 ## 🎨 Art and Animation  
 
@@ -155,7 +155,7 @@ We've curated a collection of valuable resources, including books, online course
 ### Tutorials  
 [Game developer roadmap](https://roadmap.sh/game-developer) -  An online roadmap outlining the skills and technologies you might need to learn on your path to becoming a game developer.  
 
-## 💻 Developer  
+## 💻 Programming  
 
 ### Courses  
 [2D Endless Runner](https://assetstore.unity.com/packages/essentials/certification/2d-endless-runner-assets-certification-courseware-247612) -  Certification courseware package for creating a 2D endless runner game in Unity.  
