@@ -9,7 +9,7 @@ We've curated a collection of valuable resources, including books, online course
 |🔊 [Audio](https://github.com/bluegravitystudios/learning-resources.md#-audio)|  
 |🕹 [Game Design](https://github.com/bluegravitystudios/learning-resources.md#-game-design)|  
 |⚒ [Production](https://github.com/bluegravitystudios/learning-resources.md#-production)|  
-|💻 [Programming](https://github.com/bluegravitystudios/learning-resources.md#-developer)|  
+|💻 [Programming](https://github.com/bluegravitystudios/learning-resources.md#-programming)|  
 
 ## 🎨 Art and Animation  
 
