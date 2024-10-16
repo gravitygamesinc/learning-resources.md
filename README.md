@@ -86,7 +86,7 @@ We've curated a collection of valuable resources, including books, online course
 - [Pixel Art Tutorial](https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783) -  Pixel art for beginners. It discusses what pixel art is and how to make it.  
 - [Dota 2 Workshop - Character Art Guide](https://help.steampowered.com/en/faqs/view/0688-7692-4D5A-1935) -  Dota’s full documentation on how they made their art.  
 
-### Youtube  
+### Videos  
 - [Blender Begginer Guide Part 1](https://www.youtube.com/watch?v=jnj2BL4chaQ&list=PLn3ukorJv4vuU3ILv3g3xnUyEGOQR-D8J) -  Playlist is a beginner guide to learning Blender, a powerful 3D modeling and animation software.  
 - [Cuphead's Animation Process and Philosophy](https://www.youtube.com/watch?v=RmGb-jU3uVQ) -  Very interesting knowledge but not as transferrable to our work. Still a very interesting watch.  
 - [Hearthstone: How to Create an Immersive User Interface](https://www.youtube.com/watch?v=axkPXCNjOh8) -  Hearthstone senior UI designer Derek Sakamoto breaks down Blizzard's approach to UI design. It's interesting but very specific.  
@@ -115,7 +115,7 @@ We've curated a collection of valuable resources, including books, online course
 - [GDC Vault](https://gdcvault.com/) - Access recordings and presentations from past GDC conferences.  
 - [Lost Garden](https://lostgarden.com/) - Resources and information for indie game developers.  
 
-### Youtube  
+### Videos  
 - [Classic Game Postmortem: Fallout](https://www.youtube.com/watch?v=T2OxO-4YLRk) - Interesting development cycle starting in 1994. Not sure how relevant it is to today, but nevertheless interesting.  
 - [Cursed Problems in Game Design](https://www.youtube.com/watch?v=8uE6-vIi1rQ) - Useful but also highly theoretical talk on contradictory problems in game design given by a Riot game designed working in R&D.  
 - [Darkest Dungeon: A Design Postmortem](https://www.youtube.com/watch?v=0IUaGQhlPwo) - Highly optional. It is interesting, but does not teach as much. Good perspective from an indie team of ~ 10 people.  
@@ -134,7 +134,7 @@ We've curated a collection of valuable resources, including books, online course
 ### Courses  
 - [Udemy: An Introduction To Video Game Production](https://www.udemy.com/course/an-introduction-to-video-game-production/) -  This course goes beyond the technical aspects, offering an introduction to video game production as a whole.
 
-### Youtube  
+### Videos  
 - [Blue Gravity Youtube](https://www.youtube.com/@BlueGravityGames) - Our own Studio Channel containing production tips and informations.  
 - [30 Things I Hate About Your Game Pitch](https://www.youtube.com/watch?v=4LTtr45y7P0) - Good pitching 101 for game studios but very basic advice.  
 - [Effectively Pitching to Publishers](https://www.youtube.com/watch?v=JZyCgChW0dc) - Worth watching, but not groundbreaking. The very typical publisher mentality does not advise how to actually make a game and just cheap tricks.  
@@ -258,7 +258,7 @@ We've curated a collection of valuable resources, including books, online course
 - [UnityAndroidIl2cppPatchDemo](https://assetstore.unity.com/packages/essentials/tutorial-projects/unityandroidil2cpppatchdemo-131734) -  Demonstration project showcasing patching for Android builds using IL2CPP in Unity.  
 - [VR Beginner in Unity](https://learn.unity.com/project/vr-beginner-the-escape-room) -  Develop a virtual reality experience using Unity.  
 
-### Youtube   
+### Videos   
 - [Godot UI System](https://www.youtube.com/watch?v=y1E_y9AIqow) -  Explore using the Godot UI systems.  
 - [How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) -  Explore using the Godot game engine through YouTube videos.  
 - [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) -  Learn to create these specific game types with Python.  
