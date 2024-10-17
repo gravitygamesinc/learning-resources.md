@@ -1,3 +1,4 @@
+![LearningResources](https://github.com/bluegravitystudios/learning-resources.md/blob/main/gamedev_learning.png)
 # 📚 Learning Resources
 
 >This repo is your gateway to learning game development.  
