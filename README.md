@@ -99,7 +99,17 @@ We've curated a collection of valuable resources, including books, online course
 ## 🕹 Game Design  
 
 ### Books  
+- [Advanced Game Design: A Systems Approach](https://www.amazon.com/Advanced-Game-Design-Systems-Approach/dp/0134667603/ref=sr_1_1?crid=1PR83DUUVINT5&dib=eyJ2IjoiMSJ9.50TvVsdbFMJNiDJMytC-CI2NAFKDfS5GNorB_ur_dd41VrPeojkuwQ6oadEYUaQJoFBwBsyy_38JxHp5sZotdM1ZsBoHEuF4I7BtF1ueamYCiT8-w-sL4CVwpsiCINeTalLQKhrbbr7ax1tiZF9HNquA62KU0Kdkr-zn91NOnwBkX9Mf6sNWHRameB_HwWVERftsC1itxkR_df3g1JwIqkkpWzbZw_XjR_aotj9Wies.A-ASmmJ8In_ngCamCbmSEURrfSZ0-NKHBo7gJ6HKKDM&dib_tag=se&keywords=advanced+game+design+a+systems+approach&qid=1729090220&sprefix=Advanced+Game+Design%3A+A+Systems+Approach%2Caps%2C206&sr=8-1) - Paid content, amazing book with a focus on systems thinking and how to utilize that in game design. Technical but without becoming too overwhelming.  
+- [Designing Games: A Guide to Engineering Experiences](https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937/ref=sr_1_1?crid=2V58P916IGUQG&dib=eyJ2IjoiMSJ9.zUBLanFHBeZjQkrkYSlYXjr517WwmVdEA--iHbETmiA93d1QklAz9b2aQXkEPdWRVYiWsBTqF9C5ZjVtjlavI7nG0luVY8AnWNZw7E1g46ySMwkxON47TfqZ9CeLttd-AfB-9LCHTgrrD8LSIzNYWnHWhZS9KN1XSpYtdkCFJIZfXx_hmVGeKstulNkgrayCuWt9DWuUlTQMH9_67Sn5xy5RjvmmndPzsnlV3EqJ3rc.BQOn0L5iqccIQNavNiaUaO7YjAdWpsgjDRvCK043p2Q&dib_tag=se&keywords=designing+games+a+guide+to+engineering+experiences&qid=1729090097&sprefix=Designing+Games%3A+A+Guide+to+Engineering+Experiences%2Caps%2C193&sr=8-1) - Paid content, one of the most well-written books on how to create games by focusing on elegant designs and emergent gameplay.  
+- [Dirty Bomb - Game Design Document](http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/dirty_bomb-game_design_document.pdf) - Game Design document of the game Dirty Bomb.  
+- [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202) - Paid content, not a design book per se but it teaches a lot about how to think about designing things from the perspective of creating a very immersive experience. An all time best-seller.  
+- [Game Balance](https://www.amazon.com/Game-Balance-Brenda-Romero/dp/1498799574/ref=sr_1_1?crid=3G8F3BGKQM8IF&dib=eyJ2IjoiMSJ9.c2k6fuHZmBPTr_L3Pue-bpr0ia2J9TrePRLQ_XK9O-w.7sLcdamt1y1F_BwoXIm_rX7btt-ymS40-V6GGl6yQyY&dib_tag=se&keywords=game+balance+ian+schreiber&qid=1729090308&sprefix=game+balance+ian+%2Caps%2C253&sr=8-1) - Paid content, the only book you need to learn about how to properly balance games for fun and challenge.  
+- [Game Mechanics: Advanced Game Design](https://www.amazon.com/Game-Mechanics-Advanced-Design-Voices-ebook/dp/B008CG8E8Y/ref=sr_1_1?crid=1SFUXQ7VK2914&dib=eyJ2IjoiMSJ9.bHNUpBrS7KHua61SITTHsFeno6nIWY-o6TFniH7twNE1f252GITRSX_nfTBYQx7sGJSkMDoKCwyRtf6ciDdJWbeDM7keViS-MoJiMMttHZLrd0u-WwFk2ybnPsEHut7Qh9bXSAJm2N8mC5i3qsRvohO0qloDpYqPFJlGaul0dkOgVPNxXZh8JzRT633_8ZXOHMGyk7P7qb5WJmtrgQBr0OWGP8OBbd-E-GYEhmeFIv8.KH4zPPmGUHZyWEfSEqMsjPJcVY6i5d9g4r6-X_ycw08&dib_tag=se&keywords=game+mechanics+advanced+game+design&qid=1729090155&sprefix=Game+Mechanics%3A+Advanced+Game+Design%2Caps%2C196&sr=8-1) - Paid content, this book spawned the “machinations” framework. It explores game design in a very technical and structured format.  
 - [The Art of Game Design - Book](https://www.inventoridigiochi.it/wp-content/uploads/2020/07/art-of-game-design.pdf) - A free PDF copy of the book "The Art of Game Design" by Jesse Schell.  
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?crid=1CGXQEOFRFVGJ&dib=eyJ2IjoiMSJ9.ROml6VaVT-LreMrwfkgU0xrlOOXWUgmJKVJqfCet-5CLX3oMLFVkHkEgH3hxNh9WnzlO3ex4rppPRArkorRlmDkoGKG2HZtiW7nAGvqatwxIuYCLa358gaIUg40pG_PCyu5tbgSnTLzdYV_z2YXV2zyFVPe9Lsp3M-mTMsugjMoxexmIt8EOcvcIRwP8kYTSaRTeXfz99TRgp7MPP2QIjkEk2NskBqpKAIZ-tYt3tgk.Kne08AOM7RkPQ0pLaOVBNKUqIh_WCUAMZHD__A6ikBo&dib_tag=se&keywords=the+design+of+everyday+things&qid=1729089948&s=books&sprefix=The+Design+Of+Everyday+Things%2Cstripbooks-intl-ship%2C482&sr=1-1) - Paid content - The best book on design of all time. Worth reading even if you are not a designer and game designers will also find a lot of knowledge here even though it doesn't mention games at all.  
+- [Theory of Fun for Game Design](https://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210) - Paid content, Raph is a legendary game designer and this is a must read. Simple and effective book on what is fun.  
+- [Zach-Like](https://store.steampowered.com/app/1098840/ZACHLIKE/) - ZACH-LIKE is a book of behind-the-scenes design documents from Zachtronics.  
+
 
 ### Courses  
 - [Epic Games: Fundamental of Level Design with Unreal](https://www.coursera.org/learn/level-design) -  Course on creating engaging levels in games using Unreal Engine by Epic Games.  
@@ -111,20 +121,121 @@ We've curated a collection of valuable resources, including books, online course
 - [Udemy: Making a cardgame in Photoshop](https://www.udemy.com/course/card-game/) -  Learn how to create a card game using Photoshop in this Udemy course.  
 
 ### Tutorials  
+- [A Beginner's Guide to Designing Video Game Levels](https://code.tutsplus.com/a-beginners-guide-to-designing-video-game-levels--cms-25662t) - Very good example of the design process of a level.  
+- [Amplify Your Game Camera](https://medium.com/cg-cookie/amplify-your-game-camera-a9fb4e56570c) - It discusses different types of cameras and their uses.  
+- [An Approach to Holistic Level Design](https://www.youtube.com/watch?v=CpOoTAVeEcU) - A good video on how to combine gameplay, presentation and narrative in level design.  
+- [Balancing Multiplayer Games](https://www.sirlin.net/articles/balancing-multiplayer-games-part-1-definitions) - Balancing multiplayer games starting with key definitions in part 1.  
+- [Changing Player Behavior](https://www.chaoticstupid.com/changing-player-behavior/) - How to shape players behaviour.  
+- [Competitive Design Guide](https://www.nextleveldesign.org/index.php?/content/articles/competitive-design-guide-r39/) - Writeup on designing levels for competitive games.  
+- [Creating a Single-Player Combat Space](https://www.mapcore.org/articles/development/creating-a-single-player-combat-space-r80/) - Several part article on how to effectively create good combat spaces.
 - [Designer Notes](https://www.designer-notes.com/) - Articles and insights into video game design.  
+- [Designing For Ludonarrative Harmony](https://www.academia.edu/34283487/Designing_For_Ludonarrative_Harmony) - An academic paper discussing the concept of ludonarrative harmony, where a game's mechanics and narrative complement each other.  
+- [Designing FPS Multiplayer Maps – Part 1](https://www.ongamedesign.net/designing-fps-multiplayer-maps-part-1/) - It covers giving players choices through level design with terrain options and multiple paths.  
+- [Designing FPS Multiplayer Maps – Part 2](https://www.ongamedesign.net/designing-fps-multiplayer-maps-part-2/) - It emphasizes giving players choice in their routes and discusses the problems with unassailable sniping positions.  
+- [Designing Highly Replayable Stealth Levels for Payday 2](https://www.mapcore.org/articles/development/designing-highly-replayable-stealth-levels-for-payday-2-r102/) - Designing Highly Replayable Stealth Levels for Payday 2.  
+- [Dragon’s Dogma wants you to Choose](https://kayin.moe/dragons-dogma-wants-you-to-choose) - Kayin Moe discusses Dragon’s Dogma’s unique blend of Western and Japanese influences, its satisfying combat, and its emphasis on player choice.  
+- [Economy Balancing Models](https://www.chaoticstupid.com/economy-balancing-models/) - How to set up the economic systems so that you can make it feel the way you want it.  
+- [Effectively Organize Your Game's Development With a Game Design Document](https://code.tutsplus.com/effectively-organize-your-games-development-with-a-game-design-document--active-10140a) - Guidance on using a game design document to streamline your game development process.  
+- [Enemy Attacks and Telegraphing](https://www.chaoticstupid.com/enemy-attacks-and-telegraphing/) - Focus on the Questions enemies ask in the moment-to-moment gameplay.  
+- [Enemy Attacks and Telegraphing 2](https://www.chaoticstupid.com/telegraphs-2-post-attack-vulnerability/) - “How can you defeat me?,” which is just as important to fun combat gameplay as the pre-attack telegraph.  
+- [Exploration in God of War](https://blog.playstation.com/2018/12/05/how-santa-monica-studios-nailed-exploration-in-god-of-war/) - It discusses the challenges they faced in creating a quest system for a game world without friendly NPCs.  
+- [Fighting Games: The Power of Silhouettes](https://fornace.medium.com/fighting-game-design-with-dan-fornace-the-power-of-silhouettes-915fde48318f) - This is an article about designing fighting games. It discusses the importance of silhouettes in particular.  
+- [Finding your own path as a professional Level Designer ](https://www.mapcore.org/articles/interviews/finding-your-own-path-as-a-professional-level-designer-r92/) - Article based on interviews with professional level designer on how to chart your career path.  
 - [Game Developer](https://www.gamedeveloper.com/) - Articles and tutorials on game design from an industry perspective.  
 - [GDC Vault](https://gdcvault.com/) - Access recordings and presentations from past GDC conferences.  
+- [How Level Flow Works In Uncharted 4 And The Last Of Us](https://www.nextleveldesign.org/index.php?/content/articles/how-level-flow-works-in-uncharted-4-and-the-last-of-us-r221/) - Different elements of level flow, that level designers can use to make informed decisions about their level design.  
+- [How to articulate a visual language system in a level design environment](https://iuliu-cosmin-oniscu.medium.com/how-to-articulate-a-visual-language-system-in-a-level-design-environment-17fecbcbede9) - Explores creating a consistent visual style within your level design.  
+- [How to handle cover placement.](https://iuliu-cosmin-oniscu.medium.com/how-to-handle-cover-placement-d10580faac66) - An article discussing strategies for placing cover effectively in level design.  
+- [How to Write a Screenplay or Tell a Better Story](https://byrslf.co/how-to-write-a-screenplay-or-tell-a-better-story-e91b3a2f9bfb) - Resources on writing screenplays and storytelling techniques potentially applicable to game narratives.  
+- [Level Design 1: Rational Game Design](https://slideplayer.com/slide/12246767/) - Presentation on Ubisoft's way of managing difficulty curves in level design.  
+- [Level Design for Combat](https://www.nextleveldesign.org/index.php?/content/nld-originals/level-design-for-combat-r127/) - Max Pears talks about how to improve combat using level design.  
+- [Level Design for Combat - Part 2](https://www.nextleveldesign.org/index.php?/content/nld-originals/level-design-for-combat-part-2-r163/) - Max Pears talks about how to improve combat using level design.  
+- [Level Design for Combat - Part 3](https://www.nextleveldesign.org/index.php?/content/nld-originals/level-design-for-combat-part-3-r229/) - Max Pears talks about how to improve combat using level design.  
+- [Level Design - Puzzle Design](https://www.slideshare.net/slideshow/game-14460742/14460742#2) - Puzzle level design.  
+- [Level Design Workshop: Blockmesh and Lighting Tips EXTENDED](https://www.davidshaver.net/DShaver_Invisible_Intuition_DirectorsCut.pdf) - The extended version of the presentation above covers what he didn't have time for.  
+- [Level Design: Views and Vistas](https://code.tutsplus.com/level-design-views-and-vistas--cms-25036a) - How to effectively use views and vistas in level design and why they are important.  
+- [Level Progress Diagrams](https://www.doomworld.com/forum/topic/100569-level-progress-diagrams-%E2%80%93-2002ado/) - Writeup on level progression diagrams.  
+- [Linear/Multi-path/Open-world](https://iuliu-cosmin-oniscu.medium.com/linear-multi-path-open-world-level-design-7ef6a6831a05) - Breaks down the different types of level structures: linear, multi-path, and open-world.  
+- [Loopholes in Game Design](http://devmag.org.za/2012/05/07/loopholes-in-game-design/) - This article covers what loopholes are, and why they are bad, with a big list of generic types of loopholes that can be found in games.  
 - [Lost Garden](https://lostgarden.com/) - Resources and information for indie game developers.  
+- [Making Metroidvania Style Games: Part 1](https://subtractivedesign.blogspot.com/2013/01/guide-to-making-metroidvania-style.html) - Take on the difficult task of creating a game within the Metroidvania genre.  
+- [Making Metroidvania Style Games: Part 2ish!](https://subtractivedesign.blogspot.com/2013/01/guide-to-making-metroidvania-style_16.html) - Take on the difficult task of creating a game within the Metroidvania genre.  
+- [Making Platforming Games](https://subtractivedesign.blogspot.com/2013/02/making-platforming-games.html) - Explores the world of platforming game development, likely offering tips and insights.  
+- [Map Design Theory](https://www.nextleveldesign.org/index.php?/content/articles/map-design-theory-r164/) - Rudimentary level design theory, but with examples from Halo 3.  
+- [Map Tutorials](https://vulpinoid.blogspot.com/p/map-tutorials.html) - A blog by Vulpinoid that offers tutorials on creating maps, potentially useful for level designers.  
+- [Metroid: Dread - How Metroid Lost its Way](https://kayin.moe/metroid-dread) - Kayin Moe argues that Metroid Dread’s overdesigned level design creates a disjointed and confusing experience, prioritizing puzzle-solving over exploration.  
+- [Michael Barclay Level Design Guidelines](http://www.mikebarclay.co.uk/my-level-design-guidelines/) - Bunch of tips on level design by a professional level designer.  
+- [Motivating Players in Open World Games](http://blog.joelburgess.com/2011/03/gdc-2011-transcript-motivating-players.html#more) - A blog post by Joel Burgess summarizing a GDC talk on keeping players engaged in open-world games.  
+- [Multiplayer Level Design Guide](https://www.nextleveldesign.org/index.php?/content/articles/multiplayer-level-design-guide-r145/) - Guidance and insight for designers who are creating or working on a multiplayer level.  
+- [Multiplayer Map Theory (Gears of War)](https://docs.unrealengine.com/udk/Three/GearsMultiplayerMapTheory.html) - How EpicGames designed Gear of War multiplayer levels.  
+- [Narrative construction](https://katarinagyllenback.com/) - A website by narrative designer Katarina Gyllenback offering various resources on narrative design.  
+- [Narrative Design resource](https://tom-jubert.blogspot.com/p/narrative-design-resources.html) - A blog post by narrative designer Tom Jubert with a list of resources on narrative design.  
+- [Narrative Design, the case of “Horizon Zero Dawn”](https://www.slideshare.net/slideshow/narrative-design-the-case-of-horizon-zero-dawn/82992051) - A SlideShare presentation examining the narrative design choices made in Horizon Zero Dawn.  
+- [Notes on Welcoming Spaces in Games](https://andrewyoderdesign.blog/2019/04/11/notes-on-welcoming-spaces-in-games/) - How to design areas players want to enter.  
+- [Playgrounds & Level Design](https://andrewyoderdesign.blog/2019/03/25/playgrounds-level-design/) - How to apply the idea of a playground in level design.  
+- [Portal 2 Level Design: Creating Puzzles to Challenge Your Players](https://code.tutsplus.com/portal-2-level-design-creating-puzzles-to-challenge-your-players--gamedev-4828t) - Portal 2's puzzle design.  
+- [Portal 2 Level Design: From Initial Idea to Finished Level](https://code.tutsplus.com/portal-2-level-design-from-initial-idea-to-finished-level--gamedev-5321t) - Portal 2 puzzle level design process.  
+- [Practical guide on first person level design](https://medium.com/ironequal/practical-guide-on-first-person-level-design-e187e45c744c) - Comprehensive guide on how to design FPS levels.  
+- [Preparation, Strategy, Tactics, and Action: Phases of Challenge](https://pixelpoppers.com/2018/07/phases-of-challenge/) - This is an article about the different phases of challenge in skill-based games.  
+- [Radial Level Design](https://web.archive.org/web/20191026213725/https://jfgnord.wordpress.com/2017/05/) - How to design cities using 'radial design'.  
+- [Reaction Speeds in Gaming](https://kayin.moe/reactions) - Difference between biological and mental reaction speeds in gaming. Mental reaction speed can be improved through practice.  
+- [Reward Schedules](https://www.chaoticstupid.com/reward-schedules/) - Ways in which Mike Stout like to introduce rewards into my games.  
+- [Self-Training in Narrative Design](https://emshort.blog/2019/01/08/mailbag-self-training-in-narrative-design/) - How to develop your narrative design skills without formal training.  
+- [Single Player Level Design Pacing and Gameplay Beats - Part 1/3](https://worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php) - Designing Singleplayer levels.  
+- [Spatial Considerations of Architecture Theory](https://www.nextleveldesign.org/index.php?/content/articles/how-have-level-designers-adopted-the-spatial-considerations-of-architecture-theory-r214/) - Explore how level designers have utilized architecture theory in their craft.  
+- [The Door Problem of Combat Design](https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design/) - How to design inviting combat spaces.  
+- [The Making Of: Dust 2](https://www.johnsto.co.uk/design/making-dust2/) - A website chronicling the design and development of the iconic Counter-Strike map, Dust 2.  
+- [Titanfall 2: How Design Informs Speed](https://www.nextleveldesign.org/index.php?/content/articles/titanfall-2-how-design-informs-speed-r236/) - How Titanfall 2 uses all the weapons in its game design arsenal to make being a pilot feel so fast.  
+- [Worldbuilding: Create Brave New Worlds](https://blog.reedsy.com/worldbuilding-guide/) - A blog post offering guidance on creating compelling fictional worlds for stories and games.  
+- [Writings](https://www.designer-notes.com/writings/) -  It discusses various aspects of game design, such as microtransactions, difficulty, and fairness.  
 
 ### Videos  
+- [50 Game Camera Mistakes](https://www.youtube.com/watch?v=C7307qRmlMI) - John Nesky takes on a tour of all the poor camera choices that he and other game developers have made and how to fix them.  
+- [Architectural theory for level designers](https://www.youtube.com/watch?v=HuKkrfHDHeM) - How concepts from architecture can be applied to level design.  
+- [Basics of Classic FPS Combat Encounter Design](https://www.youtube.com/watch?v=oB4JMy9OjKk) - Delves into the fundamentals of designing combat encounters in first-person shooter games.  
+- [BBC - Design Rules](https://www.youtube.com/playlist?list=PLz92k7gg9AcYHbvRJf1JD1sFcnE-xlmd2) - Delves into general design principles, potentially applicable to game design as well.  
+- [Building a Better RPG: 7 Mistakes to Avoid](https://www.youtube.com/watch?v=MEewLWDpscA) - Shares 7 common mistakes to avoid when developing a role-playing game (RPG).  
+- [Building New York in Marvel's Spider-Man](https://www.youtube.com/watch?v=Bix1nLgneR4) - Delves into the process of creating and designing the open world of New York City for Spider-Man.  
+- [Building Non-Linear Narratives in Horizon: Zero Dawn](https://www.youtube.com/watch?v=ykPZcG8_mPU) - How Horizon Zero Dawn uses open-world design to create a non-linear narrative experience.  
+- [Challenging the player through level design](https://www.youtube.com/watch?v=lE3VWaX8JY8) - How to use level design to create engaging challenges for players.  
 - [Classic Game Postmortem: Fallout](https://www.youtube.com/watch?v=T2OxO-4YLRk) - Interesting development cycle starting in 1994. Not sure how relevant it is to today, but nevertheless interesting.  
+- [Crafting the World of Ori and the Will of the Wisps](https://www.youtube.com/watch?v=9ro4GqEZIPY) - Creation process of the world in Ori and the Will of the Wisps.  
 - [Cursed Problems in Game Design](https://www.youtube.com/watch?v=8uE6-vIi1rQ) - Useful but also highly theoretical talk on contradictory problems in game design given by a Riot game designed working in R&D.  
 - [Darkest Dungeon: A Design Postmortem](https://www.youtube.com/watch?v=0IUaGQhlPwo) - Highly optional. It is interesting, but does not teach as much. Good perspective from an indie team of ~ 10 people.  
+- [Design Is How It Works: Engineering For Designers](https://www.youtube.com/watch?v=_cpsoL_b8uI) - How to apply techniques used by engineers in industries to be more precise, factual, and to avoid fallacies and biases that come with having to design anything.  
+- [Designing Noninteractive Play Spaces](https://www.youtube.com/watch?v=qCdHafkzAY4) - Exploring how to design areas in a game that players cannot directly interact with.  
+- [Devil May Cry 4 - Designing a Great Boss Fight](https://www.youtube.com/watch?v=5vZCZh5cb6s) - Analyzes the design principles behind a great boss fight.  
 - [Diablo: A Classic Game Postmortem](https://www.youtube.com/watch?v=VscdPA6sUkc) - Serious life lessons from the Diablo lead developer. Definitely worth a watch, gets better as the talk goes on.  
+- [Environmental Storytelling](https://www.youtube.com/watch?v=efrwChSdx_o) - How level design can be used to tell a story through the environment itself.  
+- [Everything Tells a Story](https://www.youtube.com/watch?v=sbOFzhPX498) - Explores how storytelling can be found in various aspects of game design.  
+- [Games As Literature Youtube Channel](https://www.youtube.com/channel/UCvaUR_-uJQcu1-c4UfUtEmQ) - A YouTube channel dedicated to analyzing video games through a literary lens.  
+- [GDC 2004 - Would the Real Emergent Gameplay Please Stand Up?](https://www.youtube.com/watch?v=yLVceaULKLU) - Discusses the concept of emergent gameplay.  
 - [GDC Youtube Channel](https://www.youtube.com/@Gdconf) - Watch talks and presentations from the Game Developers Conference (GDC) on a variety of game development topics.  
+- [Hand-Crafted Variance: Designing Hades' Underworld](https://www.youtube.com/watch?v=qv_vUa7bxks) - Level design techniques used to create a constantly changing underworld in Hades.  
+- [How Cameras in Side-Scrollers Work](https://www.youtube.com/watch?v=pdvCO97jOQk) - How camera work should be tailored to the game's unique mechanics and characteristics.  
+- [How to Choose a Theme for Your Game](https://www.youtube.com/watch?v=R_sear6P058) - Guides viewers on selecting a theme that resonates with their game's mechanics and story.  
 - [Idle Games: The Mechanics and Monetization of Self-Playing Games](https://www.youtube.com/watch?v=Lu-RjxeDpU8) -  History and evolution of idle games, oremechanics, and the monetization.  
+- [IndieGameBusiness Twitch Channel](https://www.twitch.tv/indiegamebusiness/videos) - Resources and potentially live streams focused on the business aspects of indie game development.  
 - [Into the Breach Design Postmortem](https://www.youtube.com/watch?v=s_I07Iq_2XM) - Turn-based game. Proof that strategy games do work but is difficult to make. One year of development time lost due to difficult game design problems due to turn-based strategy genre. Nevertheless an interesting but highly optional talk.  
+- [Level Design in Battlefield 1](https://www.youtube.com/watch?v=BwjU8okQWvc) - Lead/Senior Level Designer at DICE that likely delves into the design philosophy behind the maps in Battlefield 1.  
+- [Level Design Papermaps](https://www.youtube.com/watch?v=fR7AfLt1vYk&list=PL0GHpYtoYaLIA3xjjYNNi0iC-1QYguLY3&index=3) - Youtube series on top down maps.  
+- [Level Design Workshop the Illusion](https://www.gdcvault.com/play/1023552/Level-Design-Workshop-The-Illusion) - How defining  design in the outset helps several level design more effectively work together.  
+- [Level Design Workshop: Blockmesh and Lighting Tips](https://www.youtube.com/watch?v=09r1B9cVEQY) - Several great visual guides on how to design levels.  
+- [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0) - Workshop focused on the level design process used in the game Celeste.  
+- [Life, Love and Quest Design.](https://www.youtube.com/watch?v=g5TH9KakBDw) - Great resource for anyone who is interested in learning more about quest design.  
+- [Lighting Design for Level Designers](https://www.gdcvault.com/play/1016450/Lighting-Design-for-Level) - Focus on improving the knowledge of lighting for level designers so they can design better levels and work better together with enviro artists.  
 - [Magic: the Gathering: 20 Years, 20 Lessons Learned](https://www.youtube.com/watch?v=QHHg99hwQGY) - Youtube video on the design of Magic. Amazing talk, everyone should watch it regardless if you are into magic because the lessons here are transferable to any game.  
+- [Negative Space in Level Design](https://www.youtube.com/watch?v=GZ99gAb4T0o) - Importance of negative space in level design.  
+- [One-Liners: Maintaining Variety in Open-World Games](https://www.youtube.com/watch?v=i5XME4GlTU4) - Quick tips on keeping open-world games engaging through level design variety.  
+- [Placement & Mindset](https://www.youtube.com/watch?v=XUw_7Hk6SmQ) - A YouTube video on level design, potentially covering topics like object placement and design philosophy.  
+- [Player Fantasy: What is Means and How to Use It](https://www.youtube.com/watch?v=OQV_CuBy8EI) -  This talk goes step by step through a number of core player fantasies that make people want to play games, analyzing popular games and what fantasies they fulfill.  
+- [Silent Narratives: Designing Through the Eyes of an NPC](https://www.youtube.com/watch?v=NC8B8gh0UH8) - How level design can be used to tell stories from the perspective of non-player characters.  
+- [The Basics of Level Art & Level Design](https://www.youtube.com/watch?v=AfyPRIrCozk) - Introduction to the concepts and processes of level art and level design.  
+- [The Level Design of Fall Guys](https://www.youtube.com/watch?v=vz2bw9ECFaU) - Level design choices made in the popular game Fall Guys.  
+- [The Level Design of God of War](https://www.youtube.com/watch?v=eSB29qx6sWw) - A YouTube video analyzing the level design choices made in God of War.  
+- [The Social Anthropology of Level Design](https://www.youtube.com/watch?v=SpRJuinc9AM) - Exploring the connection between level design and social structures within a game.  
+- [The System Behind Hades' Astounding Dialogue](https://www.youtube.com/watch?v=bwdYL0KFA_U) - Dialogue system and writing in the game Hades.  
+- [Three methods I use to get better gameplay faster](https://www.youtube.com/watch?v=uTZieB1vJ5Y) - How to improve your game play using 3 methods.  
 - [What Went Wrong with Gaming?](https://www.youtube.com/watch?v=g16heGLKlTA) - Focus on monetization has led to a decline in the quality of games and a more negative experience for players.  
 
 ## ⚒ Production  
