@@ -1,8 +1,21 @@
 ![LearningResources](https://github.com/bluegravitystudios/learning-resources.md/blob/main/gamedev_learning.png)
 # 📚 Learning Resources
 
->This repo is your gateway to learning game development.  
+This repo is your gateway to learning game development.  
 We've curated a collection of valuable resources, including books, online courses, tutorials, and YouTube channels, all tailored to help you master the various skills needed in game development. If you're looking for beginner-friendly materials or advanced deep dives into specific topics, this is your go-to resource hub to accelerate your learning journey in game creation.  
+
+Didn't find what you were looking for? Check out our other repos!
+
+[//]: #Repos
+<div align="lef">
+  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2049%402x.png" height="40" alt="Free Assets"  /></a>
+  <a href="https://github.com/bluegravitystudios/free-engines.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="Free Platforms"  /></a>
+  <a href="https://github.com/bluegravitystudios/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="GameDev 101"  /></a>
+  <a href="https://github.com/bluegravitystudios/learning-resources.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2055%402x.png" height="40" alt="Learning Resources"  /></a>
+  <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
+</div>
+
+### Table of Contents
 
 |Summary|  
 |:----------------------------------| 
