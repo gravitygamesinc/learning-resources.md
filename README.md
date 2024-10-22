@@ -378,4 +378,11 @@ We've curated a collection of valuable resources, including books, online course
 - [Unity 2D Platform for Begginers](https://www.youtube.com/watch?v=TcranVQUQ5U&list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV) -  Playlist tutorial for creating 2D platformer games in Unity, suitable for beginners.  
 - [Unity Tutorial for Complete Begginers](https://www.youtube.com/watch?v=XtQMytORBmM) -  Beginner-friendly Unity tutorial series covering the basics of building games in the Unity engine.  
 
-[![Return](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=black)](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/README.md)
+###
+
+[//]: #Buttons
+<div align="center">
+  <a href="https://github.com/bluegravitystudios" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
+  <a href="https://github.com/bluegravitystudios/learning-resources.md?tab=readme-ov-file#-learning-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
+</div>
+
