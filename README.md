@@ -1,4 +1,4 @@
-![LearningResources](https://github.com/bluegravitystudios/learning-resources.md/blob/main/gamedev_learning.png)
+![LearningResources](https://github.com/gravitygamesinc/learning-resources.md/blob/main/gamedev_learning.png)
 # 📚 Learning Resources
 
 This repo is your gateway to learning game development.  
@@ -8,22 +8,22 @@ Didn't find what you were looking for? Check out our other repos!
 
 [//]: #Repos
 <div align="lef">
-  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2049%402x.png" height="40" alt="Free Assets"  /></a>
-  <a href="https://github.com/bluegravitystudios/free-engines.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="Free Platforms"  /></a>
-  <a href="https://github.com/bluegravitystudios/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="GameDev 101"  /></a>
-  <a href="https://github.com/bluegravitystudios/learning-resources.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2055%402x.png" height="40" alt="Learning Resources"  /></a>
-  <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
+  <a href="https://github.com/gravitygamesinc/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2049%402x.png" height="40" alt="Free Assets"  /></a>
+  <a href="https://github.com/gravitygamesinc/free-engines.md"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="Free Platforms"  /></a>
+  <a href="https://github.com/gravitygamesinc/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="GameDev 101"  /></a>
+  <a href="https://github.com/gravitygamesinc/learning-resources.md"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2055%402x.png" height="40" alt="Learning Resources"  /></a>
+  <a href="https://github.com/gravitygamesinc/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
 </div>
 
 ### Table of Contents
 
 |Summary|  
 |:----------------------------------| 
-|🎨 [Art and Animation](https://github.com/bluegravitystudios/learning-resources.md#-art-and-animation)|  
-|🔊 [Audio](https://github.com/bluegravitystudios/learning-resources.md#-audio)|  
-|🕹 [Game Design](https://github.com/bluegravitystudios/learning-resources.md#-game-design)|  
-|⚒ [Production](https://github.com/bluegravitystudios/learning-resources.md#-production)|  
-|💻 [Programming](https://github.com/bluegravitystudios/learning-resources.md#-programming)|  
+|🎨 [Art and Animation](https://github.com/gravitygamesinc/learning-resources.md#-art-and-animation)|  
+|🔊 [Audio](https://github.com/gravitygamesinc/learning-resources.md#-audio)|  
+|🕹 [Game Design](https://github.com/gravitygamesinc/learning-resources.md#-game-design)|  
+|⚒ [Production](https://github.com/gravitygamesinc/learning-resources.md#-production)|  
+|💻 [Programming](https://github.com/gravitygamesinc/learning-resources.md#-programming)|  
 
 ## 🎨 Art and Animation  
 
@@ -144,16 +144,16 @@ Didn't find what you were looking for? Check out our other repos!
 - [Designer Notes](https://www.designer-notes.com/) - Articles and insights into video game design.  
 - [Designing For Ludonarrative Harmony](https://www.academia.edu/34283487/Designing_For_Ludonarrative_Harmony) - An academic paper discussing the concept of ludonarrative harmony, where a game's mechanics and narrative complement each other.  
 - [Designing FPS Multiplayer Maps – Part 1](https://www.ongamedesign.net/designing-fps-multiplayer-maps-part-1/) - It covers giving players choices through level design with terrain options and multiple paths.  
-- [Designing FPS Multiplayer Maps – Part 2](https://www.ongamedesign.net/designing-fps-multiplayer-maps-part-2/) - It emphasizes giving players choice in their routes and discusses the problems with unassailable sniping positions.  
+- [Designing FPS Multiplayer Maps – Part 2](https://www.ongamedesign.net/designing-fps-multiplayer-maps-part-2/) - It emphasizes giving players choices in their routes and discusses the problems with unassailable sniping positions.  
 - [Designing Highly Replayable Stealth Levels for Payday 2](https://www.mapcore.org/articles/development/designing-highly-replayable-stealth-levels-for-payday-2-r102/) - Designing Highly Replayable Stealth Levels for Payday 2.  
 - [Dragon’s Dogma wants you to Choose](https://kayin.moe/dragons-dogma-wants-you-to-choose) - Kayin Moe discusses Dragon’s Dogma’s unique blend of Western and Japanese influences, its satisfying combat, and its emphasis on player choice.  
 - [Economy Balancing Models](https://www.chaoticstupid.com/economy-balancing-models/) - How to set up the economic systems so that you can make it feel the way you want it.  
 - [Effectively Organize Your Game's Development With a Game Design Document](https://code.tutsplus.com/effectively-organize-your-games-development-with-a-game-design-document--active-10140a) - Guidance on using a game design document to streamline your game development process.  
 - [Enemy Attacks and Telegraphing](https://www.chaoticstupid.com/enemy-attacks-and-telegraphing/) - Focus on the Questions enemies ask in the moment-to-moment gameplay.  
-- [Enemy Attacks and Telegraphing 2](https://www.chaoticstupid.com/telegraphs-2-post-attack-vulnerability/) - “How can you defeat me?,” which is just as important to fun combat gameplay as the pre-attack telegraph.  
+- [Enemy Attacks and Telegraphing 2](https://www.chaoticstupid.com/telegraphs-2-post-attack-vulnerability/) - “How can you defeat me?” which is just as important to fun combat gameplay as the pre-attack telegraph.  
 - [Exploration in God of War](https://blog.playstation.com/2018/12/05/how-santa-monica-studios-nailed-exploration-in-god-of-war/) - It discusses the challenges they faced in creating a quest system for a game world without friendly NPCs.  
 - [Fighting Games: The Power of Silhouettes](https://fornace.medium.com/fighting-game-design-with-dan-fornace-the-power-of-silhouettes-915fde48318f) - This is an article about designing fighting games. It discusses the importance of silhouettes in particular.  
-- [Finding your own path as a professional Level Designer ](https://www.mapcore.org/articles/interviews/finding-your-own-path-as-a-professional-level-designer-r92/) - Article based on interviews with professional level designer on how to chart your career path.  
+- [Finding your own path as a professional Level Designer ](https://www.mapcore.org/articles/interviews/finding-your-own-path-as-a-professional-level-designer-r92/) - Article based on interviews with professional level designers on how to chart your career path.  
 - [Game Developer](https://www.gamedeveloper.com/) - Articles and tutorials on game design from an industry perspective.  
 - [GDC Vault](https://gdcvault.com/) - Access recordings and presentations from past GDC conferences.  
 - [How Level Flow Works In Uncharted 4 And The Last Of Us](https://www.nextleveldesign.org/index.php?/content/articles/how-level-flow-works-in-uncharted-4-and-the-last-of-us-r221/) - Different elements of level flow, that level designers can use to make informed decisions about their level design.  
@@ -192,7 +192,7 @@ Didn't find what you were looking for? Check out our other repos!
 - [Preparation, Strategy, Tactics, and Action: Phases of Challenge](https://pixelpoppers.com/2018/07/phases-of-challenge/) - This is an article about the different phases of challenge in skill-based games.  
 - [Radial Level Design](https://web.archive.org/web/20191026213725/https://jfgnord.wordpress.com/2017/05/) - How to design cities using 'radial design'.  
 - [Reaction Speeds in Gaming](https://kayin.moe/reactions) - Difference between biological and mental reaction speeds in gaming. Mental reaction speed can be improved through practice.  
-- [Reward Schedules](https://www.chaoticstupid.com/reward-schedules/) - Ways in which Mike Stout like to introduce rewards into my games.  
+- [Reward Schedules](https://www.chaoticstupid.com/reward-schedules/) - Ways in which Mike Stout likes to introduce rewards into my games.  
 - [Self-Training in Narrative Design](https://emshort.blog/2019/01/08/mailbag-self-training-in-narrative-design/) - How to develop your narrative design skills without formal training.  
 - [Single Player Level Design Pacing and Gameplay Beats - Part 1/3](https://worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php) - Designing Singleplayer levels.  
 - [Spatial Considerations of Architecture Theory](https://www.nextleveldesign.org/index.php?/content/articles/how-have-level-designers-adopted-the-spatial-considerations-of-architecture-theory-r214/) - Explore how level designers have utilized architecture theory in their craft.  
@@ -260,7 +260,7 @@ Didn't find what you were looking for? Check out our other repos!
 - [Udemy: An Introduction To Video Game Production](https://www.udemy.com/course/an-introduction-to-video-game-production/) -  This course goes beyond the technical aspects, offering an introduction to video game production as a whole.
 
 ### Videos  
-- [Blue Gravity Youtube](https://www.youtube.com/@BlueGravityGames) - Our own Studio Channel containing production tips and informations.  
+- [Gravity Games Youtube](https://www.youtube.com/@GravityGamesInc) - Our own Studio Channel containing production tips and information.  
 - [30 Things I Hate About Your Game Pitch](https://www.youtube.com/watch?v=4LTtr45y7P0) - Good pitching 101 for game studios but very basic advice.  
 - [Effectively Pitching to Publishers](https://www.youtube.com/watch?v=JZyCgChW0dc) - Worth watching, but not groundbreaking. The very typical publisher mentality does not advise how to actually make a game and just cheap tricks.  
 - [Game Maker Toolkit Youtube Channel](https://www.youtube.com/@GMTK) -  In-depth game design and development discussions with Mark Brown.  
@@ -303,8 +303,8 @@ Didn't find what you were looking for? Check out our other repos!
 - [Udemy: Augmented Reality with Unity – AR Foundation Basics](https://www.udemy.com/course/augmented-reality-101-ar-foundation-basics/) -  This course introduces you to building augmented reality (AR) experiences using Unity and the AR Foundation.  
 - [Udemy: Basics of C# and Unity for Complete Beginners - Part 1](https://www.udemy.com/course/free-part1-alexdev/) -  The first part of a free course teaching C# programming basics and their application in Unity for game development.  
 - [Udemy: Basics of C# and Unity for Complete Beginners - Part 2](https://www.udemy.com/course/free-part2-alexdev/) -  The second part of the free C# and Unity course for beginners, building upon the first part.  
-- [Udemy: Blueprints for beginner in Unreal](https://www.udemy.com/course/introduction-to-blueprints-for-beginners-in-unreal-engine-5/) -  It teaches you Unreal Engine's visual scripting system, Blueprints, for game development in Unreal Engine 5. Build games without needing to code!  
-- [Udemy: Code Ninja : 10X Your Game Dev Speed](https://www.udemy.com/course/unity-code-ninja/) -  This course focuses on improving your coding efficiency for game development in Unity.  
+- [Udemy: Blueprints for beginners in Unreal](https://www.udemy.com/course/introduction-to-blueprints-for-beginners-in-unreal-engine-5/) -  It teaches you Unreal Engine's visual scripting system, Blueprints, for game development in Unreal Engine 5. Build games without needing to code!  
+- [Udemy: Code Ninja: 10X Your Game Dev Speed](https://www.udemy.com/course/unity-code-ninja/) -  This course focuses on improving your coding efficiency for game development in Unity.  
 - [Udemy: Course in Unity's Entity Component System](https://www.udemy.com/course/learnecs/) -  This course dives into the Entity Component System (ECS) within Unity, a core architecture concept.  
 - [Udemy: Create your first game in Unreal](https://www.udemy.com/course/creating-your-first-game-in-unreal-engine-5/) -  This course gets you started creating your first game using the Unreal Engine 5.  
 - [Udemy: Introduction to Game Dynamics with Unity 3D](https://www.udemy.com/course/introduction-to-game-dynamics/) -  Learn about game dynamics specifically within the Unity 3D environment.  
@@ -318,7 +318,7 @@ Didn't find what you were looking for? Check out our other repos!
 - [Udemy: Learn to create a 2D Racing car game for FREE PART 1.](https://www.udemy.com/course/learn-to-create-a-2d-racing-car-game-for-free-part-1/) -  The first part of a free course on creating a 2D racing car game.  
 - [Udemy: Learn To Create A Complete Menu System in Unity](https://www.udemy.com/course/unitymenus/) -  Create a complete menu system for your Unity games with this course.  
 - [Udemy: Learn to create a Simple Game in Unreal Engine 5](https://www.udemy.com/course/learn-to-create-a-simple-game-in-unreal-engine-5/) -  Create a basic game in Unreal Engine 5 with this course.  
-- [Udemy: Make awesome CUTSCENES in Unity using Timeline](https://www.udemy.com/course/unitytimeline/) -  A course on creating cutscenes, cinematic sequences within games, using Unity Timeline.  
+- [Udemy: Make awesome CUTSCENES in Unity using Timeline](https://www.udemy.com/course/unitytimeline/) -  A course on creating cutscenes, and cinematic sequences within games, using Unity Timeline.  
 - [Udemy: Make Your First Game In Godot Engine 4](https://www.udemy.com/course/godot-first-game/) -  Create your first game using the Godot game engine version 4 with this course.  
 - [Udemy: Making Games With Phaser 2.X](https://www.udemy.com/course/making-games-with-phaser/) -  Learn how to create games using the Phaser 2.X JavaScript framework in this course.  
 - [Udemy: Practical Game Development in Unity 4: Level 1](https://www.udemy.com/course/practical-game-development-in-unity-4-level-1/) -  An older course focused on practical game development in Unity 4 (specific version).  
@@ -375,7 +375,7 @@ Didn't find what you were looking for? Check out our other repos!
 - [Tetris in C++](https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/) -  Build the classic Tetris game using C++ with this tutorial.  
 - [The Courtyard](https://assetstore.unity.com/packages/essentials/tutorial-projects/the-courtyard-49377) -  The Courtyard demo puts the Enlighten Realtime GI features in Unity to good use.  
 - [The Heretic: VFX Character](https://assetstore.unity.com/packages/essentials/tutorial-projects/the-heretic-vfx-character-168622) -  A tutorial project on creating a character with visual effects (VFX) in Unity.  
-- [Tower Defense Template](https://assetstore.unity.com/packages/essentials/tutorial-projects/tower-defense-template-107692) -  A template project for creating a tower defense game in Unity.  
+- [Tower Defense Template](https://assetstore.unity.com/packages/essentials/tutorial-projects/tower-defense-template-107692) -  A template project for creating a tower defence game in Unity.  
 - [TypeScript GameDev Tutorial](https://www.youtube.com/watch?v=7bejSTim38A) -  Learn game development using TypeScript.  
 - [Unity 5 Haptic Plugin for Geomagic OpenHaptics 3.3 ](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-5-haptic-plugin-for-geomagic-openhaptics-3-3-hlapi-hdapi-34393) -  Tutorial project on using a haptic plugin for Unity 5.  
 - [Unity Learn](https://learn.unity.com/) -  Official learning platform from Unity Technologies with tutorials and courses for game development.  
@@ -395,7 +395,7 @@ Didn't find what you were looking for? Check out our other repos!
 
 [//]: #Buttons
 <div align="center">
-  <a href="https://github.com/bluegravitystudios" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
-  <a href="https://github.com/bluegravitystudios/learning-resources.md?tab=readme-ov-file#-learning-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
+  <a href="https://github.com/gravitygamesinc" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
+  <a href="https://github.com/gravitygamesinc/learning-resources.md?tab=readme-ov-file#-learning-resources" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
 </div>
 
